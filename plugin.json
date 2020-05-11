@@ -1,0 +1,12 @@
+{
+    "ID": "1f036b5d3425435784522cad3ed669b3",
+    "ActionKeyword": "bark",
+    "Name": "Bark",
+    "Description": "Bark for Wox.",
+    "Author": "Zeroto521",
+    "Version": "0.0.1",
+    "Language": "python",
+    "Website": "https://github.com/Zeroto521/Wox.Plugin.Bark",
+    "IcoPath": "assets\\favicon.png",
+    "ExecuteFileName": "main.py"
+}
