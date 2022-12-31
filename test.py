@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from ui import Main
+from plugin import Main
 
 if __name__ == '__main__':
     t = Main()
